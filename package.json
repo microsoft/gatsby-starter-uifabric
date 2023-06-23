@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@uifabric/fluent-theme": "^0.16.7",
-    "gatsby": "^2.4.0",
+    "gatsby": "^2.32.13",
     "office-ui-fabric-react": "^6.176.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
